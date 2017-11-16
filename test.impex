@@ -2,4 +2,4 @@
  #% impex.definitions.put("$currentDate", new java.text.SimpleDateFormat("yyyy_MM_dd HH:mm:ss").format(new Date()))
  
 UPDATE Employee;uid[unique=true];name;
-;admin;Administrator $currentDate
+;admin;Administrator Test $currentDate
